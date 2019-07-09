@@ -1,0 +1,7 @@
+datetime
+feedparser
+flask
+google.cloud.bigquery
+google.cloud.datastore
+newspaper3k
+requests
